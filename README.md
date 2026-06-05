@@ -1,5 +1,14 @@
 # Potencializando-seus-estudos-e-carreira-com-ia - Front End 
 
+🤖 Agentes
+O conceito
+
+O consultor (chatbot) responde quando você pergunta. O colega (copiloto) sugere enquanto você trabalha. Já o agente é como delegar uma tarefa a alguém de confiança: você explica o que precisa, ele analisa a situação, decide como resolver e executa. Você acompanha o resultado, não cada passo do processo.
+
+Você tem um plano de estudos em um documento. Agora vamos pedir ao agente que transforme esse plano em um workspace real no seu computador, com pasta organizada e arquivos prontos para uso.
+
+Passo 1: Criar uma pasta vazia e abrir o agente nela
+
 Passo 1: Criar uma pasta vazia e abrir o agente nela
 
 Crie uma pasta no seu computador (a área de trabalho serve) e abra o Google Antigravity apontando para essa pasta.
