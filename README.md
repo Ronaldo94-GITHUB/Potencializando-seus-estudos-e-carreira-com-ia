@@ -7,13 +7,15 @@ O consultor (chatbot) responde quando você pergunta. O colega (copiloto) sugere
 
 Você tem um plano de estudos em um documento. Agora vamos pedir ao agente que transforme esse plano em um workspace real no seu computador, com pasta organizada e arquivos prontos para uso.
 
-Passo 1: Criar uma pasta vazia e abrir o agente nela
+---
 
 Passo 1: Criar uma pasta vazia e abrir o agente nela
 
 Crie uma pasta no seu computador (a área de trabalho serve) e abra o Google Antigravity apontando para essa pasta.
 
-Passo 2: Entregar o plano e descrever a tarefa
+---
+
+Passo 2: Entregar o plano e descrever a tarefa:
 
 Use o prompt abaixo, colando o conteúdo do documento da prática anterior no espaço indicado:
 
@@ -31,6 +33,9 @@ Materialize esse plano nesta pasta criando:
 4. recursos.md com os materiais separados por semana
 
 Antes de criar, me explique brevemente sua estrutura. Depois execute.
+
+---
+
 Passo 3: Revisar o que foi criado
 
 Abra os arquivos um a um e leia com calma. Essa revisão é onde o aprendizado realmente acontece. Você vai notar decisões que faria diferente, partes que quer ajustar, e isso é exatamente o seu papel ao trabalhar com um agente: validar e refinar.
