@@ -1,1 +1,29 @@
-# Potencializando-seus-estudos-e-carreira-com-ia
+# Potencializando-seus-estudos-e-carreira-com-ia - Front End 
+
+Passo 1: Criar uma pasta vazia e abrir o agente nela
+
+Crie uma pasta no seu computador (a área de trabalho serve) e abra o Google Antigravity apontando para essa pasta.
+
+Passo 2: Entregar o plano e descrever a tarefa
+
+Use o prompt abaixo, colando o conteúdo do documento da prática anterior no espaço indicado:
+
+Segue o plano de estudos que escrevi com a ajuda de um copiloto:
+
+---
+[cole o conteúdo do documento da prática anterior]
+---
+
+Materialize esse plano nesta pasta criando:
+
+1. README.md com o resumo do plano
+2. cronograma.md com o roteiro semanal (semanas 1 a 4)
+3. uma pasta "anotacoes" com um modelo "semana-01.md" para eu duplicar
+4. recursos.md com os materiais separados por semana
+
+Antes de criar, me explique brevemente sua estrutura. Depois execute.
+Passo 3: Revisar o que foi criado
+
+Abra os arquivos um a um e leia com calma. Essa revisão é onde o aprendizado realmente acontece. Você vai notar decisões que faria diferente, partes que quer ajustar, e isso é exatamente o seu papel ao trabalhar com um agente: validar e refinar.
+
+No final, observe a jornada completa. Você começou com uma vontade de aprender, conversou para decidir, escreveu para estruturar, e agora tem um workspace pronto para começar.
